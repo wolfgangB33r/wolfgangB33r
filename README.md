@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Wolfgang Beer. product manager @Dynatrace, mobile app dev/publisher [TabShop](https://tabshop.smartlab.at), consultant, [Author](https://www.smartlab.at/books), software engineering and data science enthusiast from Linz (Austria).
+I'm Wolfgang Beer. product manager @[Dynatrace](https://www.dynatrace.com), mobile app dev/publisher [TabShop](https://tabshop.smartlab.at), consultant, [Author](https://www.smartlab.at/books), software engineering and data science enthusiast from Linz (Austria).
 
 ## Current blog posts
 
