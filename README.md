@@ -6,17 +6,6 @@ Let's connect and see what we can build together!
 
 # My Recent Blog Posts
 
-# Medium Blog Posts
-
-- [Your Android Users, Decoded: How Agentic AI Reads Between the Taps](https://wolfgangb33r.medium.com/your-android-users-decoded-how-agentic-ai-reads-between-the-taps)
-- [New Dynatrace AI Skill for Predictive Observability]([[https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability]()](https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability-39d1b5cc11f7?sharedUserId=wolfgangb33r))
-- [Better logs, smarter AI Agents, fewer tokens](https://wolfgangb33r.medium.com/better-logs-smarter-ai-agents-fewer-tokens)
-- [New Dynatrace Intelligence AI Skill for Root Cause and Impact Analysis](https://wolfgangb33r.medium.com/new-dynatrace-intelligence-ai-skill-for-root-cause-and-impact-analysis)
-- [Dynatrace Davis AI automatically monitors OpenAI ChatGPT for performance, reliability and cost](https://wolfgangb33r.medium.com/dynatrace-davis-ai-automatically-monitors-openai-chatgpt-for-performance-reliability-and-cost)
-- [Use SLOs in Dynatrace to Safeguard your Mobile App Revenue](https://wolfgangb33r.medium.com/use-slos-in-dynatrace-to-safeguard-your-mobile-app-revenue)
-- [Increase your App Revenue by Optimising your Google Play Store Presence](https://wolfgangb33r.medium.com/increase-your-app-revenue-by-optimising-your-google-play-store-presence-2e2d5b3cf0e7)
-- [Streamlit — How to build and share your Data Apps on Steroids?](https://wolfgangb33r.medium.com/streamlit-how-to-build-and-share-your-data-apps-on-steroids-4f0676a7862b)
-
 - [OpenTelemetry Astroshop Simulator](https://www.smartlab.at/opentelemetry-astroshop-simulator/)
 - [Serve a MCP Server in Google Cloud Run](https://www.smartlab.at/serve-a-mcp-server-in-google-cloud-run/)
 - [Mapping the AI Universe: The Hugging Face Model Atlas](https://www.smartlab.at/mapping-the-ai-universe-the-hugging-face-model-atlas/)
