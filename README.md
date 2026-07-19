@@ -9,7 +9,7 @@ Let's connect and see what we can build together!
 # Medium Blog Posts
 
 - [Your Android Users, Decoded: How Agentic AI Reads Between the Taps](https://wolfgangb33r.medium.com/your-android-users-decoded-how-agentic-ai-reads-between-the-taps)
-- [New Dynatrace AI Skill for Predictive Observability]([https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability](https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability-39d1b5cc11f7?sharedUserId=wolfgangb33r))
+- [New Dynatrace AI Skill for Predictive Observability]([[https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability]()](https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability-39d1b5cc11f7?sharedUserId=wolfgangb33r))
 - [Better logs, smarter AI Agents, fewer tokens](https://wolfgangb33r.medium.com/better-logs-smarter-ai-agents-fewer-tokens)
 - [New Dynatrace Intelligence AI Skill for Root Cause and Impact Analysis](https://wolfgangb33r.medium.com/new-dynatrace-intelligence-ai-skill-for-root-cause-and-impact-analysis)
 - [Dynatrace Davis AI automatically monitors OpenAI ChatGPT for performance, reliability and cost](https://wolfgangb33r.medium.com/dynatrace-davis-ai-automatically-monitors-openai-chatgpt-for-performance-reliability-and-cost)
