@@ -4,7 +4,14 @@ I'm also a consultant, [author](https://www.smartlab.at/books), and enthusiast f
 Based in Linz, Austria, I'm always on the lookout for opportunities to learn and grow.
 Let's connect and see what we can build together!
 
-## Current blog posts
+# My Recent Blog Posts
+
+- **Your Android Users, Decoded: How Agentic AI Reads Between the Taps** *(Published 5 days ago, ~6 min read)*
+- **New Dynatrace AI Skill for Predictive Observability** *(Published Jul 2, ~8 min read)*
+- **Better logs, smarter AI Agents, fewer tokens** *(Published Jun 18, ~7 min read)*
+- **New Dynatrace Intelligence AI Skill for Root Cause and Impact Analysis** *(Published Jun 5, ~8 min read)*
+- **Dynatrace Davis AI automatically monitors OpenAI ChatGPT for performance, reliability and cost** *(Published Jun 6, 2023, ~6 min read)*
+- **Use SLOs in Dynatrace to Safeguard your Mobile App Revenue** *(Published Sep 25, 2021, ~9 min read)*
 
 - [OpenTelemetry Astroshop Simulator](https://www.smartlab.at/opentelemetry-astroshop-simulator/)
 - [Serve a MCP Server in Google Cloud Run](https://www.smartlab.at/serve-a-mcp-server-in-google-cloud-run/)
