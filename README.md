@@ -6,12 +6,14 @@ Let's connect and see what we can build together!
 
 # My Recent Blog Posts
 
-- **Your Android Users, Decoded: How Agentic AI Reads Between the Taps** *(Published 5 days ago, ~6 min read)*
-- **New Dynatrace AI Skill for Predictive Observability** *(Published Jul 2, ~8 min read)*
-- **Better logs, smarter AI Agents, fewer tokens** *(Published Jun 18, ~7 min read)*
-- **New Dynatrace Intelligence AI Skill for Root Cause and Impact Analysis** *(Published Jun 5, ~8 min read)*
-- **Dynatrace Davis AI automatically monitors OpenAI ChatGPT for performance, reliability and cost** *(Published Jun 6, 2023, ~6 min read)*
-- **Use SLOs in Dynatrace to Safeguard your Mobile App Revenue** *(Published Sep 25, 2021, ~9 min read)*
+# Medium Blog Posts
+
+- [Your Android Users, Decoded: How Agentic AI Reads Between the Taps](https://wolfgangb33r.medium.com/your-android-users-decoded-how-agentic-ai-reads-between-the-taps)
+- [New Dynatrace AI Skill for Predictive Observability](https://wolfgangb33r.medium.com/new-dynatrace-ai-skill-for-predictive-observability)
+- [Better logs, smarter AI Agents, fewer tokens](https://wolfgangb33r.medium.com/better-logs-smarter-ai-agents-fewer-tokens)
+- [New Dynatrace Intelligence AI Skill for Root Cause and Impact Analysis](https://wolfgangb33r.medium.com/new-dynatrace-intelligence-ai-skill-for-root-cause-and-impact-analysis)
+- [Dynatrace Davis AI automatically monitors OpenAI ChatGPT for performance, reliability and cost](https://wolfgangb33r.medium.com/dynatrace-davis-ai-automatically-monitors-openai-chatgpt-for-performance-reliability-and-cost)
+- [Use SLOs in Dynatrace to Safeguard your Mobile App Revenue](https://wolfgangb33r.medium.com/use-slos-in-dynatrace-to-safeguard-your-mobile-app-revenue)
 
 - [OpenTelemetry Astroshop Simulator](https://www.smartlab.at/opentelemetry-astroshop-simulator/)
 - [Serve a MCP Server in Google Cloud Run](https://www.smartlab.at/serve-a-mcp-server-in-google-cloud-run/)
